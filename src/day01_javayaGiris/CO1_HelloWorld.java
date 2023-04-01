@@ -12,5 +12,6 @@ public class CO1_HelloWorld {
         satırları
         yoruma alama işaretidir.
          */
+        System.out.println("nen nene ne ");
     }
 }
