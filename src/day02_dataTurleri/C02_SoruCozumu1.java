@@ -2,7 +2,7 @@ package day02_dataTurleri;
 
 import java.util.Scanner;
 
-public class C02_SoruCozumu {
+public class C02_SoruCozumu1 {
     public static void main(String[] args) {
         /*
          Kullanicidan ismini, soyismini ve yasini alip, asagidaki formmatta yazdirin.
