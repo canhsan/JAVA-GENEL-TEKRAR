@@ -1,6 +1,6 @@
 package day03_DataCasting;
 
-public class C02_ExpilicitNarrowing {
+public class C01_AutoWedding {
     public static void main(String[] args) {
 
         byte sayi1 = 127;
@@ -11,12 +11,21 @@ public class C02_ExpilicitNarrowing {
         float sayi6=12.4187963F;
 
 
-        sayi6=sayi1;
-        sayi1=(byte)sayi6;
+        sayi1=(byte)sayi2;
+        System.out.println(sayi1);
+        sayi2=(short)sayi3;
+
+        sayi5=sayi6;
+        sayi4=(long)sayi5;
+
+
+
+
+
+
+
 
 
     }
-
-
 
 }
