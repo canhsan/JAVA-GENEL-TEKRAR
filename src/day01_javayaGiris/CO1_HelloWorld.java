@@ -13,5 +13,6 @@ public class CO1_HelloWorld {
         yoruma alama işaretidir.
          */
         System.out.println("nen nene ne ");
+        System.out.println("Fatih in calısmasi");
     }
 }
