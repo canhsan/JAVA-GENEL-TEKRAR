@@ -15,6 +15,7 @@ public class C01_dataCasting {
         System.out.println(Short.MIN_VALUE);
         System.out.println(Integer.valueOf(str1));
         System.out.println(Integer.parseInt(str1) + 1);
+        System.out.println(Long.reverseBytes(0));
 
     }
 
