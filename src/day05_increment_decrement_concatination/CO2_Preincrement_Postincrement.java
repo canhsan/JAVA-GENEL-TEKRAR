@@ -9,6 +9,12 @@ public class CO2_Preincrement_Postincrement {
         System.out.println(b);
         b=a++;
         System.out.println(b);
+        //b=a;
+        //a++
+        System.out.println(a);
+        //b=a++;
+        System.out.println(b);
+        
 
     }
 }
