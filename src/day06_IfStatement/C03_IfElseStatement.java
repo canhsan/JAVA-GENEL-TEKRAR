@@ -16,7 +16,7 @@ public class C03_IfElseStatement {
             System.out.println(Character.toUpperCase(krk));
 
         }else {
-            System.out.println("Girilen harf:"+ " "+ krk);
+            System.out.println("Girilen harf:git"+ " "+ krk);
         }
 
     }
