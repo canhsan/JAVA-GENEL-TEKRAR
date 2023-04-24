@@ -5,6 +5,7 @@ public class C01_sayiAsalMiMethodu {
         sayiAsalMiMethodu(23);
         sayiAsalMiMethodu(2);
         sayiAsalMiMethodu(35);
+        sayiAsalMiMethodu(145);
 
     }
 
